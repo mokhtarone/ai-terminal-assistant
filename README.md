@@ -9,6 +9,7 @@ Un agent AI puissant qui aide à accomplir des tâches grâce à l'intégration 
 - **Mémoire à long terme** : L'agent apprend de vos interactions et se souvient des informations importantes
 - **Terminal intégré** : Exécution de commandes système avec confirmation de sécurité
 - **Multimodal** : Support des entrées textuelles complexes et des tâches avancées
+- **Mail fonction** : unstable
 <img width="1606" height="1199" alt="Copie d&#39;écran_20251215_212739" src="https://github.com/user-attachments/assets/b9d32476-cf84-4862-aa49-6f77f3f787e2" />
 <img width="1606" height="1199" alt="Copie d&#39;écran_20251215_212627" src="https://github.com/user-attachments/assets/ab2fa97c-4fb4-4929-86a7-2f11e4f45def" />
 <img width="1606" height="1199" alt="Copie d&#39;écran_20251215_212641" src="https://github.com/user-attachments/assets/87db505d-e29a-4c2e-8561-5c6500cd5282" />
