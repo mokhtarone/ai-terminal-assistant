@@ -33,13 +33,28 @@ touch .env
 Ajoutez les variables suivantes au fichier `.env` :
 
 ```env
-# Configuration principale de l'API
+# Configuration du fournisseur API OpenAI compatible
 API_BASE_URL=https://inference.asicloud.cudos.org/v1
-API_KEY=votre_clé_api_ici
+API_KEY=api
 MODEL_NAME=asi1-mini
+MAX_TOKENS=16384
 
-# Configuration de la recherche (optionnel)
-SEARCH_API_KEY=votre_clé_api_recherche_ici
+# Configuration de l'API de recherche SerpAPI
+SEARCH_API_KEY=api
+
+# Configuration SMTP pour l'envoi d'emails
+SMTP_HOST=smtp.gmail.com
+SMTP_PORT=587
+SMTP_USERNAME=
+SMTP_PASSWORD=
+SMTP_FROM="ASIONE Agent" <.com>
+
+# Options d'export des reponses
+EXPORT_FORMAT=markdown
+EXPORT_DIRECTORY=./exports
+PAGINATION_ENABLED=true
+PAGINATION_SIZE=20
+
 ```
 Modifiez le chemin du dossier dans main.go qui correspond au chemin de la directory.
 absPath := "/home/arch/Desktop/asione-agent/.env"
