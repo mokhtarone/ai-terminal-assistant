@@ -2,6 +2,8 @@
 
 Un agent AI puissant qui aide à accomplir des tâches grâce à l'intégration d'intelligence artificielle, de recherche Internet et de mémoire à long terme.
 
+##Ce code est un FORK de Cline
+
 ## Fonctionnalités principales
 
 - **Assistant intelligent** : Posez des questions, demandez des informations ou exécutez des tâches
