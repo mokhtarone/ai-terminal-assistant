@@ -2,7 +2,7 @@
 
 Un agent AI puissant qui aide à accomplir des tâches grâce à l'intégration d'intelligence artificielle, de recherche Internet et de mémoire à long terme.
 
-##Ce code est un FORK de Cline
+## Ce code est un FORK de Cline
 
 ## Fonctionnalités principales
 
